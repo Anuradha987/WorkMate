@@ -1,0 +1,15 @@
+debug/assignuser.o
+debug/ceohomescreen.o
+debug/databaseconnection.o
+debug/employeehomescreen.o
+debug/main.o
+debug/login.o
+debug/managerhomescreen.o
+debug/myinfo.o
+debug/projects.o
+debug/user.o
+debug/moc_assignuser.o
+debug/moc_ceohomescreen.o
+debug/moc_employeehomescreen.o
+debug/moc_login.o
+debug/moc_managerhomescreen.o
