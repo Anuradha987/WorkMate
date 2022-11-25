@@ -2,7 +2,7 @@
 WorkMate is a simple cross-platform functioning project management system that applicable for small organizations to manage their tasks and projects. Possible functions provided by this system are adding, deleting, editing, and submitting projects. WorkMate will be responsible for monitoring each employee’s progress, also the entire company’s progress. 
 WorkMate has mainly three user categories – CEO, Manager, and staff.
 
-This software was implemented in C++ with QT and OOP concepts were used. SQLite was used as the database. 
+This software was implemented using C++ with QT according to the OOP concepts. Also, SQLite was used as the database. 
 
 Below are some of the screenshots of the software.
 ![image](https://user-images.githubusercontent.com/68071470/204027443-f33696a5-f799-4809-985d-3dd4c2492a9e.png)
